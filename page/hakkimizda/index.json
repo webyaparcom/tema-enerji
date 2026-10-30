@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 4,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "gs2xwl",
+      "ps4rwn"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Güneşhat Enerji, yenilenebilir enerji ve elektrik tesisat işlerini açık varsayımlarla ve iş güvenliği önceliğiyle yürüten kurgusal bir demo firmadır. Bu sitedeki projeler, belgeler ve rakamlar kurgusaldır.",
+    "en": "Güneşhat Enerji is a fictional demo company that carries out renewable energy and electrical installation work with open assumptions and safety first. Projects, certificates and figures on this site are fictional.",
+    "ar": "غونشهات للطاقة شركة تجريبية افتراضية تنفّذ أعمال الطاقة المتجددة والتمديدات الكهربائية بافتراضات معلنة وبأولوية للسلامة. المشاريع والشهادات والأرقام في هذا الموقع افتراضية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T22:11:00.278Z",
+  "date": "2026-10-30"
+}
