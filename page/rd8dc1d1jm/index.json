@@ -1,0 +1,39 @@
+{
+  "id": "rd8dc1d1jm",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Kurgusal projelerin temsili görüntüleri.",
+    "en": "Illustrative images of fictional projects.",
+    "ar": "صور توضيحية لمشاريع افتراضية."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "9q6iw1"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-30T22:11:00.274Z",
+  "update": "2026-10-30T22:11:00.276Z"
+}

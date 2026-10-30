@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": "f2swn4tzce",
+      "name": {
+        "tr": "Hizmetlerimiz",
+        "en": "Services",
+        "ar": "خدماتنا"
+      },
+      "description": {
+        "tr": "Üretim ve geri ödeme tahminleri çatı yönü, gölgelenme ve tüketim gibi varsayımlara dayanır; garanti değildir.",
+        "en": "Production and payback estimates rest on assumptions such as roof orientation, shading and consumption; they are not guarantees.",
+        "ar": "تعتمد تقديرات الإنتاج والاسترداد على افتراضات مثل اتجاه السقف والتظليل والاستهلاك؛ وهي ليست ضمانات."
+      },
+      "path": "hizmetlerimiz",
+      "icon": "solar_power",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "oyu9p5",
+          "e8w9nw",
+          "h9dsl6"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "05l0yw2cu8",
+      "name": {
+        "tr": "Teklif Al",
+        "en": "Get a Quote",
+        "ar": "اطلب عرض سعر"
+      },
+      "description": {
+        "tr": "Hizmeti ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+        "en": "Choose the service and a convenient day; on this demo site your request is created only in your browser.",
+        "ar": "اختر الخدمة واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fevktr"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "hcui4egr1e",
+      "name": {
+        "tr": "Belgelerimiz",
+        "en": "Certificates",
+        "ar": "شهاداتنا"
+      },
+      "description": {
+        "tr": "ISO belgeleri, yetki belgesi ve varsayım uyarısı.",
+        "en": "ISO certificates, licence and the assumptions notice.",
+        "ar": "شهادات ISO والترخيص وتنبيه الافتراضات."
+      },
+      "path": "belgelerimiz",
+      "icon": "verified",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "dzvi33"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "rd8dc1d1jm",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Kurgusal projelerin temsili görüntüleri.",
+        "en": "Illustrative images of fictional projects.",
+        "ar": "صور توضيحية لمشاريع افتراضية."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "9q6iw1"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "gs2xwl",
+          "ps4rwn"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Güneşhat Enerji, yenilenebilir enerji ve elektrik tesisat işlerini açık varsayımlarla ve iş güvenliği önceliğiyle yürüten kurgusal bir demo firmadır. Bu sitedeki projeler, belgeler ve rakamlar kurgusaldır.",
+        "en": "Güneşhat Enerji is a fictional demo company that carries out renewable energy and electrical installation work with open assumptions and safety first. Projects, certificates and figures on this site are fictional.",
+        "ar": "غونشهات للطاقة شركة تجريبية افتراضية تنفّذ أعمال الطاقة المتجددة والتمديدات الكهربائية بافتراضات معلنة وبأولوية للسلامة. المشاريع والشهادات والأرقام في هذا الموقع افتراضية."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ct01",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

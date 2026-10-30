@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Güneşhat Enerji: GES kurulumu, elektrik taahhüt ve bakım-izleme; teklif talebi ve belgeler. (Demo site)",
+    "en": "Güneşhat Enerji: solar installation, electrical contracting and maintenance-monitoring; quote requests and certificates. (Demo site)",
+    "ar": "غونشهات للطاقة: تركيب محطات شمسية ومقاولات كهربائية وصيانة ومراقبة مع طلب عرض سعر وشهادات. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "GES, güneş enerjisi, elektrik taahhüt",
+    "en": "solar power plant, solar energy, electrical contracting",
+    "ar": "محطة شمسية، طاقة شمسية، مقاولات كهربائية"
+  },
+  "category": "Kurumsal",
+  "name": "Güneşhat Enerji",
+  "domain": "enerji.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "poppins",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#1B6F4B",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "7px",
+    "--mx-radius-md": "12px",
+    "--mx-radius-lg": "17px",
+    "--mx-radius-xl": "23px"
+  },
+  "icon": "icon.png"
+}
